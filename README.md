@@ -13,7 +13,7 @@ conda activate env
 
 created req file
 
-install thr req
+install the req
 
 ```bash
 
