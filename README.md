@@ -57,3 +57,19 @@ git remote add origin https://github.com/arpita1207-max/simple-dvc-demo.git
 git branch -M main
 git push origin main
 ```
+
+```bash
+touch src/split_data.py
+python  src/split_data.py
+git add .
+git commit -m "split data updated"
+git push origin main
+```
+
+```bash
+touch src/train_and_evaluate.py
+python  src/train_and_evaluate.py
+git add .
+git commit -m "train and evluate updated"
+git push origin main
+```
